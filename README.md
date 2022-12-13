@@ -1,6 +1,3 @@
-
-- [ ] [Set up project integrations](https://gitlab.com/jennyzfire/portfolio-project/-/settings/integrations)
-
 ## Collaborate with your team
 
 - [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
